@@ -10,11 +10,11 @@ The API enables users to view detailed information about a specific pet store an
 If you are building with .NET CLI tools then you can also use the following command:
 
 ```bash
-dotnet add package TahiraTestSDK --version 1.0.1
+dotnet add package TahiraTestSDK --version 1.0.2
 ```
 
 You can also view the package at:
-https://www.nuget.org/packages/TahiraTestSDK/1.0.1
+https://www.nuget.org/packages/TahiraTestSDK/1.0.2
 
 ## Test the SDK
 
@@ -22,7 +22,7 @@ The generated SDK also contain one or more Tests, which are contained in the Tes
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -45,17 +45,17 @@ This API uses `OAuth 2 Bearer token`.
 
 ## List of APIs
 
-* [Pets](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/controllers/pets.md)
+* [Pets](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/controllers/pets.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/utility-classes.md)
-* [HttpRequest](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/http-request.md)
-* [HttpResponse](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/http-response.md)
-* [HttpStringResponse](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/http-string-response.md)
-* [HttpContext](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/http-context.md)
-* [HttpClientConfiguration](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/http-client-configuration.md)
-* [HttpClientConfiguration Builder](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/http-client-configuration-builder.md)
-* [IAuthManager](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/i-auth-manager.md)
-* [ApiException](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.1/doc/api-exception.md)
+* [Utility Classes](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/utility-classes.md)
+* [HttpRequest](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/http-request.md)
+* [HttpResponse](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/http-response.md)
+* [HttpStringResponse](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/http-string-response.md)
+* [HttpContext](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/http-context.md)
+* [HttpClientConfiguration](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/http-client-configuration.md)
+* [HttpClientConfiguration Builder](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/http-client-configuration-builder.md)
+* [IAuthManager](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/i-auth-manager.md)
+* [ApiException](https://www.github.com/TahiraKhattak/tahira-test-dotnet-sdk/tree/1.0.2/doc/api-exception.md)
 
